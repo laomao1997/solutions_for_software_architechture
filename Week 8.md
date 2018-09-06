@@ -73,18 +73,20 @@ Determine if the software will work
 
 ### Question 9
 
-*Incorrect*
+Correct
 
 Which of the following are usually produced by or during an ATAM review?
 
 Selected Answers: 	
+ 	
+A set of risks and non-risks	
 
-A set of risks and non-risks
-
+A collection of scenarios mapping architectural decisions to quality requirements.
+	
 A concise presentation of the architecture
-
+	
 A set of sensitivity and trade-off points.
-
+.
 ### Question 10
 
 Correct 	
