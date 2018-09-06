@@ -1,4 +1,3 @@
-
 ### Question 1
 Correct
 
@@ -72,17 +71,6 @@ Determine if the software can fail
 
 Determine if the software will work
 
-### Question 8
-*Incorrect*
-
-The activities of an ATAM review, after the initial preparation has been completed, include which of the following?
-
-Selected Answers: 	
-
-The architecture is reviewed against a selection of prioritised scenarios.
-
-The architecture is modified to respond to feedback given during the review.
-
 ### Question 9
 
 *Incorrect*
@@ -106,3 +94,52 @@ A likely source of errors for software architects is that they and the customer 
 Selected Answer: 	
 
 True 
+
+### Question 1
+
+*Incorrect* 	
+
+A HAZOP analysis of an architecture can only be conducted once the architecture is complete.
+Selected Answer: 
+
+True
+
+### Question 7
+
+Correct 	
+
+The activities of an ATAM review, after the initial preparation has been completed, include which of the following?
+
+Selected Answers: 	
+
+The architecture is reviewed against a selection of prioritised scenarios.
+	
+
+The business drivers (Objectives, constraints and risks) are presented.
+	
+
+The architecture is described to an appropriate level.
+
+### Question 9
+
+Correct 	
+
+A HAZOP analysis is a formal inspection of an architecture requiring formal documentation.
+Selected Answer: 	
+
+True
+
+### Question 10
+
+*Incorrect* 	
+
+What are the main steps in Stuart Pugh's method of controlled design convergence.
+Selected Answers: 	
+
+Rate an alternative architecture on the same criteria.
+	
+
+Rate how well the candidate archiecture achieves each of the criteria.
+	
+
+Establish the criteria for evaluating an architecture. Usually these include the functional and non-functional requirements.
