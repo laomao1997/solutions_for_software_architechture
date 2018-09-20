@@ -128,3 +128,47 @@ What is the intention of the architecture narrative.
 Selected Answer:	
 To provide readers with a consistent mental model of the system and its purpose.
 
+### Question 2
+
+Correct
+
+Architecture views are different representations of an architecture. What are the common architectural views of a system?
+
+Selected Answers:	
+
+Conceptual view
+
+Execution view
+
+Implementation view.
+
+### Question 6
+
+*Incorrect*	
+
+What does the architecture rationale record?
+
+Selected Answer:	
+
+The architecture rationale captures the essence of discussions between stakeholders and architects
+
+### Question 9
+
+Correct
+
+Architecture descriptions have many uses by a variety of stakeholders, throughout the system life cycle and beyond.
+
+Selected Answer:
+
+True
+
+### Question 10
+
+*Incorrect*	
+
+What purpose does the architecture description identification serve?
+
+Selected Answer:	
+
+To identify the system of interest.
+
